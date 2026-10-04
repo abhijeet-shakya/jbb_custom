@@ -2,7 +2,7 @@ app_name = "jbb_custom"
 app_title = "JBB Custom"
 app_publisher = "Abhijeet Shakya"
 app_description = "Client-specific customisations for Jai Balaji Billiards"
-app_email = "abhijeet.shakya@infinitelocus.com"
+app_email = "abhi22jeetu@gmail.com"
 app_license = "mit"
 
 required_apps = ["erpnext", "quoteshop"]

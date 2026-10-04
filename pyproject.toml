@@ -1,7 +1,7 @@
 [project]
 name = "jbb_custom"
 authors = [
-    { name = "Abhijeet Shakya", email = "abhijeet.shakya@infinitelocus.com"}
+    { name = "Abhijeet Shakya", email = "abhi22jeetu@gmail.com"}
 ]
 description = "Client-specific customisations for Jai Balaji Billiards"
 requires-python = ">=3.14"
